@@ -18,6 +18,7 @@ Project Duration: Mar 2022 - May 2022
 * [Description](#description)
 * [Features](#features)
 * [Setup and Usage](#setup-and-usage)
+* [Design Rationale](#design-rationale)
 * [Team Members](#team-members)
 * [Screenshots](#screenshots)
 
@@ -72,6 +73,9 @@ Receptionists can either edit, or delete a customer's active booking.
 
 ## Setup and Usage
 The program cannot be run anymore as the web service had been taken down after the end of semester.
+
+## Design Rationale
+Please refer to the <a href="https://github.com/chanwaihan/Covid-Testing-Registration-System/blob/main/project-master/design-rationale/DesignRationale.pdf">Design Rationale</a> for an in-depth explanation of the design principles, design patterns, package-level design principles, and software architectural patterns that we implemented into the system.
 
 ## Team Members
 Group: MA_Lab04Team15
