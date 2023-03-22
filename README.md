@@ -61,7 +61,7 @@ Customers can book home testing. Once logged in, the customer has to indicate th
 
 ### 6. Booking Modifications <i>(Customer, Receptionist)</i>
 
-#### Customers
+#### Customer
 Customers can log in and modify bookings made by them through the system. Customers can either check their current booking status through the 'profile', under current active bookings, or search manually search through the system by providing the booking ID. They can only make changes to bookings from the current day date onwards, i.e. they cannot make changes to bookings with an older date from the current day's date.<br><br>
 Customers can modify the test venue (testing site) by providing a different testing site.<br>
 Customers can either edit, or delete an active booking.
