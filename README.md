@@ -85,4 +85,22 @@ Group: MA_Lab04Team15
 | Lee Chang Horng | <ul><li>On-site Booking</li><li>On-site Testing</li><li>Home Booking Subsystem</li><li>Convert system into MVC</li></ul> |
 
 ## Screenshots
-To be added.
+<div>
+  <img src="https://raw.githubusercontent.com/chanwaihan/Covid-Testing-Registration-System/main/screenshots/home-page.jpg" alt="home-page" title="Home Page"><br>
+  <figcaption>Figure 1: Covid Testing Registration System Home Page</figcaption>
+</div>
+<br><br>
+<div>
+  <img src="https://raw.githubusercontent.com/chanwaihan/Covid-Testing-Registration-System/main/screenshots/login.jpg" alt="login" title="Login"><br>
+  <figcaption>Figure 2: Login subsystem</figcaption>
+</div>
+<br><br>
+<div>
+  <img src="https://raw.githubusercontent.com/chanwaihan/Covid-Testing-Registration-System/main/screenshots/edit-booking-1.jpg" alt="edit-booking-1" title="Edit Booking 1"><br>
+  <figcaption>Figure 3: Selecting the action to modify a booking</figcaption>
+</div>
+<br><br>
+<div>
+  <img src="https://raw.githubusercontent.com/chanwaihan/Covid-Testing-Registration-System/main/screenshots/edit-booking-2.jpg" alt="edit-booking-2" title="Edit Booking 2"><br>
+  <figcaption>Figure 4: Selecting the booking ID to be modified</figcaption>
+</div>
